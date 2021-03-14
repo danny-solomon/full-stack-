@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+}
+div{
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+}
+button:hover{
+    color: red;
+    background-color: sandybrown;
+    border: 2px solid black;
+}
+div p{
+    color: orange;
+}
+p{
+    color: orchid;
+}
